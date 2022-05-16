@@ -5,6 +5,8 @@ var playerHealth = 100;
 var playerAttack = 10;
 var playerMoney = 10;
 
+
+
 var enemyNames = ["Roborto", "Amy Android", "Robo Trumble"];
 
 for(var i = 0; i < enemyNames.length; i++) {
